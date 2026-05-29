@@ -8,4 +8,4 @@
 
 ## Tech Stack
 
-Full stack / Smart Contract / Blockchain Core / ZK
+Full Stack / Smart Contract / Blockchain Core / ZK
