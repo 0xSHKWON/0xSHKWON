@@ -8,4 +8,4 @@
 
 ## Tech Stack
 
-Full Stack / Blockchain Engine & Protocol / ZK
+Full Stack / Blockchain Engine / Protocol / ZK
