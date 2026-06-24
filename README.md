@@ -1,7 +1,7 @@
 ## All in Web3
 - Spot/Futures & Meme
 - Arbitrage
-- Onchain strategies etc..
+- Onchain strategies etc...
 - Build 
 
 ---
